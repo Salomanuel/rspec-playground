@@ -1,4 +1,4 @@
-require 'string_analyzer'
+require '1_string_analyzer'
 
 describe StringAnalyzer do
   context "With valid input" do
